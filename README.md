@@ -6,8 +6,6 @@ A machine learning system that identifies optimal wake-up times by detecting fav
 
 Sleep Assist combines transfer learning with personalized LSTM models to predict the best moment to wake up — minimizing sleep inertia and improving how you feel in the morning.
 
-Built for the **Bundeswettbewerb Künstliche Intelligenz 2024**.
-
 ## Results
 
 | Metric | Value |
